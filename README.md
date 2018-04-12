@@ -11,7 +11,7 @@ Contains JSONS of Python dependency information from various repositories found 
 Contains a jupyter notebook describing how to load the json files into Neo4J. Neo4J is a graph database tool.
 
 #### Other
-A slide presentation introducing this dataset and potential data visualization and analytics that could done with it is located <a href="https://docs.google.com/presentation/d/1bNedbvWyzndNqQYfTGJS6MQid6zwOe4KTmAl7PIRhBk/edit?usp=sharing">here<a/>.
+A slide presentation introducing this dataset and potential datanaut projets in data visualization and analytics that could done with it is located <a href="https://docs.google.com/presentation/d/1bNedbvWyzndNqQYfTGJS6MQid6zwOe4KTmAl7PIRhBk/edit?usp=sharing">here<a/>.
 
 --------------------------
 
