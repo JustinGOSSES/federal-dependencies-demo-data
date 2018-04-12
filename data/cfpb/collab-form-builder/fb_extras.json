@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab-form-builder", "repo_link": "https://github.com/cfpb/collab-form-builder", "filename": "fb_extras.py", "explicit_dep": ["django", "template"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "wagtail-flags", "repo_link": "https://github.com/cfpb/wagtail-flags", "filename": "test_models.py", "explicit_dep": ["django.test", "flags.models", "TestCase", "FlagState"], "implicit_dep": ["__main__"]}

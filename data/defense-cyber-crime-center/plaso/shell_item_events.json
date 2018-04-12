@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "plaso", "repo_link": "https://github.com/defense-cyber-crime-center/plaso", "filename": "shell_item_events.py", "explicit_dep": ["plaso.events", "time_events"], "implicit_dep": ["__main__"]}

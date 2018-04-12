@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "0003_cfgovimage_collection.py", "explicit_dep": ["wagtail.wagtailcore.models", "django.db", "migrations", "models"], "implicit_dep": ["__main__"]}

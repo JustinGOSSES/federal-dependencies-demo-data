@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-django", "repo_link": "https://github.com/cfpb/cfgov-django", "filename": "test.py", "explicit_dep": ["base", null], "implicit_dep": ["__main__"]}

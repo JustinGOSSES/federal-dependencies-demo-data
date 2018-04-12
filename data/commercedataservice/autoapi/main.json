@@ -1,0 +1,1 @@
+{"org": "commercedataservice", "org_link": "https://github.com/commercedataservice", "repo": "autoapi", "repo_link": "https://github.com/commercedataservice/autoapi", "filename": "main.py", "explicit_dep": ["app", "make_app"], "implicit_dep": ["__main__"]}

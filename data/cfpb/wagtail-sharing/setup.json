@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "wagtail-sharing", "repo_link": "https://github.com/cfpb/wagtail-sharing", "filename": "setup.py", "explicit_dep": ["setuptools", "find_packages", "setup"], "implicit_dep": ["__main__"]}

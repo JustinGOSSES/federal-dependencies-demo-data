@@ -1,0 +1,1 @@
+{"org": "commercedataservice", "org_link": "https://github.com/commercedataservice", "repo": "patent-process-and-search", "repo_link": "https://github.com/commercedataservice/patent-process-and-search", "filename": "update_schema.py", "explicit_dep": ["s3_upload.solr", "Solr"], "implicit_dep": ["__main__"]}

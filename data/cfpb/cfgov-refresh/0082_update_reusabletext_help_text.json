@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "0082_update_reusabletext_help_text.py", "explicit_dep": ["django.db", "migrations", "models"], "implicit_dep": ["__main__"]}

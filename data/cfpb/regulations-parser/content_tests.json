@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-parser", "repo_link": "https://github.com/cfpb/regulations-parser", "filename": "content_tests.py", "explicit_dep": ["unittest", "mock", "regparser", "", "TestCase", "patch", "content", "settings"], "implicit_dep": ["error"]}

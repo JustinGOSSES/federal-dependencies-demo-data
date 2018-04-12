@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "invalidate_all_pages.py", "explicit_dep": ["django.conf", "django.core.management.base", "v1.models.akamai_backend", "settings", "BaseCommand", "AkamaiBackend"], "implicit_dep": ["__main__"]}

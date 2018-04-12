@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "0011_hero_refactor_data.py", "explicit_dep": ["django.db", "v1.util.migrations", "migrations", "transaction", "get_stream_data", "set_stream_data"], "implicit_dep": ["__main__"]}

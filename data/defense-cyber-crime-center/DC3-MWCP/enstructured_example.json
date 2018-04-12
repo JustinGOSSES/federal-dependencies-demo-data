@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "DC3-MWCP", "repo_link": "https://github.com/defense-cyber-crime-center/DC3-MWCP", "filename": "enstructured_example.py", "explicit_dep": ["", "pprint", "sys", "enstructured"], "implicit_dep": ["error"]}

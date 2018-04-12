@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab", "repo_link": "https://github.com/cfpb/collab", "filename": "upto.py", "explicit_dep": ["django", "django.template.defaultfilters", "template", "stringfilter"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab-form-builder", "repo_link": "https://github.com/cfpb/collab-form-builder", "filename": "factories.py", "explicit_dep": ["factory", "form_builder.models", "collab.django_factories", "Form", "Field", "UserF"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-parser", "repo_link": "https://github.com/eregs/regulations-parser", "filename": "optional_rules.py", "explicit_dep": ["constraint", "regparser.tree.depth", "regparser.tree.depth.rules", "InSetConstraint", "markers", "_level_and_children", "ancestors"], "implicit_dep": ["__main__"]}

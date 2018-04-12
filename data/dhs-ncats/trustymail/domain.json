@@ -1,0 +1,1 @@
+{"org": "dhs-ncats", "org_link": "https://github.com/dhs-ncats", "repo": "trustymail", "repo_link": "https://github.com/dhs-ncats/trustymail", "filename": "domain.py", "explicit_dep": ["publicsuffix", "trustymail", "PublicSuffixList", "trustymail"], "implicit_dep": ["__main__"]}

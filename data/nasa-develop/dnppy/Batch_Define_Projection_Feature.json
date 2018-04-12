@@ -1,0 +1,1 @@
+{"org": "nasa-develop", "org_link": "https://github.com/nasa-develop", "repo": "dnppy", "repo_link": "https://github.com/nasa-develop/dnppy", "filename": "Batch_Define_Projection_Feature.py", "explicit_dep": ["arcpy", "arcpy.sa", null], "implicit_dep": ["__main__"]}

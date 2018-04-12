@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "drama-free-django", "repo_link": "https://github.com/cfpb/drama-free-django", "filename": "sitecustomize.py", "explicit_dep": ["os", "json", "", "site", "dfd"], "implicit_dep": ["error"]}

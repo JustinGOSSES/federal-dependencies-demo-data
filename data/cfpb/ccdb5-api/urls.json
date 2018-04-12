@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "ccdb5-api", "repo_link": "https://github.com/cfpb/ccdb5-api", "filename": "urls.py", "explicit_dep": ["django.conf.urls", "django.contrib", "include", "url", "admin"], "implicit_dep": ["__main__"]}

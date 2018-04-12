@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "pilot_pilot", "repo_link": "https://github.com/cfpb/pilot_pilot", "filename": "hmda_evaluate.py", "explicit_dep": [], "implicit_dep": ["__main__"]}

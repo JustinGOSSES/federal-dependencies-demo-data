@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "missing_migrations.py", "explicit_dep": ["sys", "io", "io", "django", "django.core.management", "StringIO", "StringIO", "VERSION", "call_command"], "implicit_dep": ["__main__", "_io", "abc", "_weakrefset", "_weakref"]}

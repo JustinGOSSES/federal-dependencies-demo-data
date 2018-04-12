@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "hmda-viz-processing", "repo_link": "https://github.com/cfpb/hmda-viz-processing", "filename": "demographics_indexing.py", "explicit_dep": [], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab", "repo_link": "https://github.com/cfpb/collab", "filename": "urls.py", "explicit_dep": ["django.conf.urls", "django.contrib", "django.conf", "django.core.urlresolvers", "django.views.generic", "patterns", "include", "url", "admin", "settings", "reverse_lazy", "RedirectView"], "implicit_dep": ["__main__"]}

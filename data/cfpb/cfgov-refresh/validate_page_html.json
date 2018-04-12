@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "validate_page_html.py", "explicit_dep": ["django.core.management.base", "v1.models", "v1.page_validation", "BaseCommand", "CommandError", "LegacyBlogPage", "PageValidator"], "implicit_dep": ["__main__"]}

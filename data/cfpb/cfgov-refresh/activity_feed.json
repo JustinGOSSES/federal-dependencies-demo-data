@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "activity_feed.py", "explicit_dep": ["v1.models.learn_page", "v1.util.categories", "AbstractFilterPage", "clean_categories"], "implicit_dep": ["__main__"]}

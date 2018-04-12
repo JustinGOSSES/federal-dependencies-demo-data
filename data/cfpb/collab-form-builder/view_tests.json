@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab-form-builder", "repo_link": "https://github.com/cfpb/collab-form-builder", "filename": "view_tests.py", "explicit_dep": ["django.test", "django.contrib.auth", "form_builder.tests.factories", "django.core.urlresolvers", "TestCase", "get_user_model", "FormF", "FieldF", "reverse"], "implicit_dep": ["__main__"]}

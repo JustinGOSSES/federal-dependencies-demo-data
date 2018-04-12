@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-parser", "repo_link": "https://github.com/eregs/regulations-parser", "filename": "0009_auto_20160824_2347.py", "explicit_dep": ["django.db", "migrations", "models"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-parser", "repo_link": "https://github.com/eregs/regulations-parser", "filename": "test.py", "explicit_dep": ["regparser.web.settings.base", null], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "DC3-MWCP", "repo_link": "https://github.com/defense-cyber-crime-center/DC3-MWCP", "filename": "setup.py", "explicit_dep": ["setuptools", "setup", "find_packages"], "implicit_dep": ["__main__"]}

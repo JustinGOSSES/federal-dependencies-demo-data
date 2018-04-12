@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "ckanext-discourse", "repo_link": "https://github.com/cfpb/ckanext-discourse", "filename": "test_plugin.py", "explicit_dep": ["ckanext.discourse.plugin"], "implicit_dep": ["__main__"]}

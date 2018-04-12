@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-site", "repo_link": "https://github.com/eregs/regulations-site", "filename": "navigation.py", "explicit_dep": ["regulations.generator.section_url", "regulations.generator.toc", "SectionUrl", "fetch_toc"], "implicit_dep": ["__main__"]}

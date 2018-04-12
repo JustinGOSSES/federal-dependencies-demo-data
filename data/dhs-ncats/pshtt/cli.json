@@ -1,0 +1,1 @@
+{"org": "dhs-ncats", "org_link": "https://github.com/dhs-ncats", "repo": "pshtt", "repo_link": "https://github.com/dhs-ncats/pshtt", "filename": "cli.py", "explicit_dep": ["", "", "docopt", "logging", "sys", "pshtt", "utils"], "implicit_dep": ["error"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "clouseau", "repo_link": "https://github.com/cfpb/clouseau", "filename": "abstract.py", "explicit_dep": ["abc", "ABCMeta", "abstractmethod"], "implicit_dep": ["__main__", "_weakrefset", "_weakref"]}

@@ -1,0 +1,1 @@
+{"org": "nasa-develop", "org_link": "https://github.com/nasa-develop", "repo": "dnppy", "repo_link": "https://github.com/nasa-develop/dnppy", "filename": "setup.py", "explicit_dep": ["", "distutils.core", "install_dependencies", "setup"], "implicit_dep": ["error"]}

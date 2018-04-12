@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "test_model_blocks.py", "explicit_dep": ["django.contrib.auth.models", "django.test", "cfgov.test", "v1.atomic_elements.organisms", "User", "TestCase", "HtmlMixin", "ModelBlock", "ModelTable"], "implicit_dep": ["__main__"]}

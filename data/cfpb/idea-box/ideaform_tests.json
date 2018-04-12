@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "idea-box", "repo_link": "https://github.com/cfpb/idea-box", "filename": "ideaform_tests.py", "explicit_dep": ["django.test", "idea.forms", "TestCase", "IdeaForm"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "wagtail-sharing", "repo_link": "https://github.com/cfpb/wagtail-sharing", "filename": "urls.py", "explicit_dep": ["django.conf.urls", "wagtail.wagtailadmin", "wagtailsharing", "include", "url", "urls", "urls"], "implicit_dep": ["__main__"]}

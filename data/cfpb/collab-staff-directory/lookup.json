@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab-staff-directory", "repo_link": "https://github.com/cfpb/collab-staff-directory", "filename": "lookup.py", "explicit_dep": ["django", "template"], "implicit_dep": ["__main__"]}

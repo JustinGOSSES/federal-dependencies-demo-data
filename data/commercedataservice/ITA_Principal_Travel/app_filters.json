@@ -1,0 +1,1 @@
+{"org": "commercedataservice", "org_link": "https://github.com/commercedataservice", "repo": "ITA_Principal_Travel", "repo_link": "https://github.com/commercedataservice/ITA_Principal_Travel", "filename": "app_filters.py", "explicit_dep": ["django", "django.template.defaulttags", "template", "register"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "0002_share_perms.py", "explicit_dep": ["django.db", "migrations"], "implicit_dep": ["__main__"]}

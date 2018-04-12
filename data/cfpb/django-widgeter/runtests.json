@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "django-widgeter", "repo_link": "https://github.com/cfpb/django-widgeter", "filename": "runtests.py", "explicit_dep": ["sys", "django.conf", "django.test.utils", "settings", "get_runner"], "implicit_dep": ["__main__"]}

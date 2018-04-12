@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-core", "repo_link": "https://github.com/cfpb/regulations-core", "filename": "urls.py", "explicit_dep": ["django.conf.urls", "regcore_read.views", "patterns", "url", "es_search", "haystack_search"], "implicit_dep": ["__main__"]}

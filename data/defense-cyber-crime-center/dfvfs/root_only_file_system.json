@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "dfvfs", "repo_link": "https://github.com/defense-cyber-crime-center/dfvfs", "filename": "root_only_file_system.py", "explicit_dep": ["abc", "dfvfs.lib", "dfvfs.vfs", "errors", "file_system"], "implicit_dep": ["__main__", "_weakrefset", "_weakref"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-xml-parser", "repo_link": "https://github.com/cfpb/regulations-xml-parser", "filename": "regulation_node_tests.py", "explicit_dep": ["unittest", "lxml.etree", "regulation.node", "", "TestCase", "find_all_occurrences", "settings"], "implicit_dep": ["error"]}

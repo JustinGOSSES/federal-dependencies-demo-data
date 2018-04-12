@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab", "repo_link": "https://github.com/cfpb/collab", "filename": "middleware.py", "explicit_dep": ["django.http", "django.core.urlresolvers", "core.helpers", "HttpResponseRedirect", "reverse", "user_has_profile"], "implicit_dep": ["__main__"]}

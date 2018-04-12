@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab-mystery-meet", "repo_link": "https://github.com/cfpb/collab-mystery-meet", "filename": "addmeet_tests.py", "explicit_dep": ["django.test", "django.core.urlresolvers", "core.models", "mystery.models", "TestCase", "reverse", "OrgGroup", "OfficeLocation", "Interest"], "implicit_dep": ["__main__"]}

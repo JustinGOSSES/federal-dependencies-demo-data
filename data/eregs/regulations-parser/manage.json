@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-parser", "repo_link": "https://github.com/eregs/regulations-parser", "filename": "manage.py", "explicit_dep": ["sys", "regparser.web.management.runner", "runner"], "implicit_dep": ["__main__"]}

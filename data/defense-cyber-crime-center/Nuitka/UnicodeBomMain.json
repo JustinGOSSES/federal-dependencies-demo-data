@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "Nuitka", "repo_link": "https://github.com/defense-cyber-crime-center/Nuitka", "filename": "UnicodeBomMain.py", "explicit_dep": ["", "unicode_bom"], "implicit_dep": ["error"]}

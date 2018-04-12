@@ -1,0 +1,1 @@
+{"org": "nasa-develop", "org_link": "https://github.com/nasa-develop", "repo": "dnppy", "repo_link": "https://github.com/nasa-develop/dnppy", "filename": "easy_install.py", "explicit_dep": ["", "pip", "os", "install_dependencies"], "implicit_dep": ["error"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "django-api-test", "repo_link": "https://github.com/cfpb/django-api-test", "filename": "urls.py", "explicit_dep": ["django.conf.urls", "django.contrib", "patterns", "include", "url", "admin"], "implicit_dep": ["__main__"]}

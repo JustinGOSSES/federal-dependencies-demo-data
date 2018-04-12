@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "jmeter-bootstrap", "repo_link": "https://github.com/cfpb/jmeter-bootstrap", "filename": "__init__.py", "explicit_dep": [], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-configs", "repo_link": "https://github.com/cfpb/regulations-configs", "filename": "reg_z.py", "explicit_dep": [], "implicit_dep": ["__main__"]}

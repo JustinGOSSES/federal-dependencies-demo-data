@@ -1,0 +1,1 @@
+{"org": "fda", "org_link": "https://github.com/fda", "repo": "openfda", "repo_link": "https://github.com/fda/openfda", "filename": "luigi_support.py", "explicit_dep": ["luigi", "mapreduce", "mapper", "reducer", "outputs", "Collection", "mapreduce", "Mapper", "Reducer", "LevelDBOutput"], "implicit_dep": ["__main__"]}

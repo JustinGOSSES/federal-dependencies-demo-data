@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab", "repo_link": "https://github.com/cfpb/collab", "filename": "ifinstalled.py", "explicit_dep": ["django.template.base", "django", "django.conf", "Node", "NodeList", "TemplateSyntaxError", "template", "settings"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-core", "repo_link": "https://github.com/eregs/regulations-core", "filename": "storage.py", "explicit_dep": ["django.conf", "django.utils.module_loading", "settings", "import_string"], "implicit_dep": ["__main__"]}

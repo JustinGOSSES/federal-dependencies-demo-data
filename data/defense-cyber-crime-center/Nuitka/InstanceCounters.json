@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "Nuitka", "repo_link": "https://github.com/defense-cyber-crime-center/Nuitka", "filename": "InstanceCounters.py", "explicit_dep": ["nuitka.Options", "nuitka.Tracing", "isShowMemory", "printIndented", "printLine"], "implicit_dep": ["__main__"]}

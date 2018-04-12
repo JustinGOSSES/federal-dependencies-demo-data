@@ -1,0 +1,1 @@
+{"org": "commercedataservice", "org_link": "https://github.com/commercedataservice", "repo": "patent-process-and-search", "repo_link": "https://github.com/commercedataservice/patent-process-and-search", "filename": "full_sts_test.py", "explicit_dep": ["time", "sys", "s3_upload.s3_uploader", "S3Uploader"], "implicit_dep": ["__main__"]}

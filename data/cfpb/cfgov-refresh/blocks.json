@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "blocks.py", "explicit_dep": ["django.template.loader", "django.utils", "wagtail.wagtailcore", "v1.atomic_elements", "render_to_string", "timezone", "blocks", "organisms"], "implicit_dep": ["__main__"]}

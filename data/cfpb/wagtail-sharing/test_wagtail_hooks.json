@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "wagtail-sharing", "repo_link": "https://github.com/cfpb/wagtail-sharing", "filename": "test_wagtail_hooks.py", "explicit_dep": ["django.test", "mock", "wagtail.tests.testapp.models", "wagtailsharing.wagtail_hooks", "TestCase", "Mock", "patch", "SimplePage", "add_sharing_link"], "implicit_dep": ["__main__"]}

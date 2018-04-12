@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "django-hud", "repo_link": "https://github.com/cfpb/django-hud", "filename": "settings.py", "explicit_dep": ["django"], "implicit_dep": ["__main__"]}

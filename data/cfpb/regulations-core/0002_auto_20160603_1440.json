@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-core", "repo_link": "https://github.com/cfpb/regulations-core", "filename": "0002_auto_20160603_1440.py", "explicit_dep": ["django.db", "migrations", "models"], "implicit_dep": ["__main__"]}

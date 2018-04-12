@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "publish_eccu", "repo_link": "https://github.com/cfpb/publish_eccu", "filename": "publish.py", "explicit_dep": ["argparse", "base64", "codecs", "itertools", "datetime", "", "lxml", "suds.client", "suds.transport.http", "settings", "etree", "Client", "HttpAuthenticated"], "implicit_dep": ["error"]}

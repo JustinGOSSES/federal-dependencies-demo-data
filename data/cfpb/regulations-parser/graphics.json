@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-parser", "repo_link": "https://github.com/cfpb/regulations-parser", "filename": "graphics.py~", "explicit_dep": ["collections", "re", "logging", "requests", "http.client", "regparser", "regparser.layer.layer", "", "defaultdict", "content", "Layer", "settings"], "implicit_dep": ["error"]}

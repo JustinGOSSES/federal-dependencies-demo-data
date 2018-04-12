@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-parser", "repo_link": "https://github.com/cfpb/regulations-parser", "filename": "api_reader.py", "explicit_dep": ["json", "os", "requests", "regparser.tree.struct", "", "node_decode_hook", "settings"], "implicit_dep": ["error"]}

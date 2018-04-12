@@ -1,0 +1,1 @@
+{"org": "NASA-rdt", "org_link": "https://github.com/NASA-rdt", "repo": "ros_controller_gui", "repo_link": "https://github.com/NASA-rdt/ros_controller_gui", "filename": "talker.py", "explicit_dep": ["rospy", "std_msgs.msg", "String"], "implicit_dep": ["__main__"]}

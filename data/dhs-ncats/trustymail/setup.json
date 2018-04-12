@@ -1,0 +1,1 @@
+{"org": "dhs-ncats", "org_link": "https://github.com/dhs-ncats", "repo": "trustymail", "repo_link": "https://github.com/dhs-ncats/trustymail", "filename": "setup.py", "explicit_dep": ["setuptools", "setup"], "implicit_dep": ["__main__"]}

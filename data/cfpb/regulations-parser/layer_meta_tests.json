@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-parser", "repo_link": "https://github.com/cfpb/regulations-parser", "filename": "layer_meta_tests.py", "explicit_dep": ["unittest", "regparser.layer.meta", "regparser.tree.struct", "", "TestCase", "Meta", "Node", "settings"], "implicit_dep": ["error"]}

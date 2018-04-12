@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-core", "repo_link": "https://github.com/cfpb/regulations-core", "filename": "es_search.py", "explicit_dep": ["django.conf", "pyelasticsearch", "regcore", "regcore.responses", "settings", "ElasticSearch", "db", "success", "user_error"], "implicit_dep": ["__main__"]}

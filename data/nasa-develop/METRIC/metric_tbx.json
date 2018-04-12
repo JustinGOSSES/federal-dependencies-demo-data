@@ -1,0 +1,1 @@
+{"org": "nasa-develop", "org_link": "https://github.com/nasa-develop", "repo": "METRIC", "repo_link": "https://github.com/nasa-develop/METRIC", "filename": "metric_tbx.py", "explicit_dep": ["arcpy", "METRIC", "METRIC", "metric_py", "prepare_metric_env"], "implicit_dep": ["__main__"]}

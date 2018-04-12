@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-parser", "repo_link": "https://github.com/eregs/regulations-parser", "filename": "carving.py", "explicit_dep": ["regparser", "search"], "implicit_dep": ["__main__"]}

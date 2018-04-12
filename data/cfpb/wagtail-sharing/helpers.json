@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "wagtail-sharing", "repo_link": "https://github.com/cfpb/wagtail-sharing", "filename": "helpers.py", "explicit_dep": ["django.utils.text", "wagtail.tests.testapp.models", "slugify", "SimplePage"], "implicit_dep": ["__main__"]}

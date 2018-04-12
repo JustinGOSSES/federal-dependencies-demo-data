@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-core", "repo_link": "https://github.com/eregs/regulations-core", "filename": "0004_mptt_delete_fields.py", "explicit_dep": ["django.db", "migrations"], "implicit_dep": ["__main__"]}

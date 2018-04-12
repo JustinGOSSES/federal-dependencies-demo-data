@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "Nuitka", "repo_link": "https://github.com/defense-cyber-crime-center/Nuitka", "filename": "StandardShapes.py", "explicit_dep": ["nuitka.codegen.c_types.CTypePyObjectPtrs", "CTypePyObjectPtr"], "implicit_dep": ["__main__"]}

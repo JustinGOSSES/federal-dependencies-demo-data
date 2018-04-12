@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-parser", "repo_link": "https://github.com/cfpb/regulations-parser", "filename": "build_tree.py", "explicit_dep": ["regparser.tree.struct", "regparser.tree.xml_parser", "NodeEncoder", "reg_text"], "implicit_dep": ["__main__"]}

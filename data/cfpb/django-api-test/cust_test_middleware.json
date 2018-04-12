@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "django-api-test", "repo_link": "https://github.com/cfpb/django-api-test", "filename": "cust_test_middleware.py", "explicit_dep": ["api_test.middleware.api_test", "ApiTestMiddleware"], "implicit_dep": ["__main__"]}

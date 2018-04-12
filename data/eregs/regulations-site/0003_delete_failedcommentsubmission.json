@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-site", "repo_link": "https://github.com/eregs/regulations-site", "filename": "0003_delete_failedcommentsubmission.py", "explicit_dep": ["django.db", "migrations"], "implicit_dep": ["__main__"]}

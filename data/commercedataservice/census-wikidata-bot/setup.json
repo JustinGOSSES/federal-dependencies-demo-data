@@ -1,0 +1,1 @@
+{"org": "commercedataservice", "org_link": "https://github.com/commercedataservice", "repo": "census-wikidata-bot", "repo_link": "https://github.com/commercedataservice/census-wikidata-bot", "filename": "setup.py", "explicit_dep": ["setuptools", "pypandoc", "setup", "find_packages"], "implicit_dep": ["__main__"]}

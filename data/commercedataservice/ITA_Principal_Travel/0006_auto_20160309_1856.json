@@ -1,0 +1,1 @@
+{"org": "commercedataservice", "org_link": "https://github.com/commercedataservice", "repo": "ITA_Principal_Travel", "repo_link": "https://github.com/commercedataservice/ITA_Principal_Travel", "filename": "0006_auto_20160309_1856.py", "explicit_dep": ["django.db", "migrations", "models"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "idea-box", "repo_link": "https://github.com/cfpb/idea-box", "filename": "0012_auto__chg_field_idea_summary.py", "explicit_dep": ["south.utils", "south.db", "south.v2", "django.db", "datetime_utils", "db", "SchemaMigration", "models"], "implicit_dep": ["__main__"]}

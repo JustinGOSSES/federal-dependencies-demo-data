@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "invalidate_page.py", "explicit_dep": ["django.core.management.base", "wagtail.contrib.wagtailfrontendcache.utils", "BaseCommand", "purge_url_from_cache"], "implicit_dep": ["__main__"]}

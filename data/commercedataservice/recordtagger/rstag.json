@@ -1,0 +1,1 @@
+{"org": "commercedataservice", "org_link": "https://github.com/commercedataservice", "repo": "recordtagger", "repo_link": "https://github.com/commercedataservice/recordtagger", "filename": "rstag.py", "explicit_dep": ["error"], "implicit_dep": ["error"]}

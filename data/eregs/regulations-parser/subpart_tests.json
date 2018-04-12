@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-parser", "repo_link": "https://github.com/eregs/regulations-parser", "filename": "subpart_tests.py", "explicit_dep": ["regparser.test_utils.xml_builder", "regparser.tree.gpo_cfr", "XMLBuilder", "subpart"], "implicit_dep": ["__main__"]}

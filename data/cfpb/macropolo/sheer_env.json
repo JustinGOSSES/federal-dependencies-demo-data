@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "macropolo", "repo_link": "https://github.com/cfpb/macropolo", "filename": "sheer_env.py", "explicit_dep": ["markdown", "sheer.templates", "jinja2_env", "date_formatter", "Jinja2Environment"], "implicit_dep": ["__main__"]}

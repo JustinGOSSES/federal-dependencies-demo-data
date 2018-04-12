@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "0040_fill_filter_spec.py", "explicit_dep": ["django.db", "wagtail.wagtailimages.utils", "migrations", "models", "get_fill_filter_spec_migrations"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "dfvfs", "repo_link": "https://github.com/defense-cyber-crime-center/dfvfs", "filename": "tsk_partition_path_spec.py", "explicit_dep": ["dfvfs.lib", "dfvfs.path", "dfvfs.path", "definitions", "factory", "path_spec"], "implicit_dep": ["__main__"]}

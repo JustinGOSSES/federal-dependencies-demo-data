@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "owning-a-home-api", "repo_link": "https://github.com/cfpb/owning-a-home-api", "filename": "gather_limit_data.py", "explicit_dep": ["django.core.management.base", "countylimits.data_collection.gather_county_data", "BaseCommand", "get_chums_data"], "implicit_dep": ["__main__"]}

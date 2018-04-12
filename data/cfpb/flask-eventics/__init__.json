@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "flask-eventics", "repo_link": "https://github.com/cfpb/flask-eventics", "filename": "__init__.py", "explicit_dep": ["controllers", "eventics"], "implicit_dep": ["__main__"]}

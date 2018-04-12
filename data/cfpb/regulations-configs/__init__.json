@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-configs", "repo_link": "https://github.com/cfpb/regulations-configs", "filename": "__init__.py", "explicit_dep": ["regparser.default_settings", "all", "reg_b", "reg_d", "reg_j", "reg_k", "reg_m", "reg_x", "reg_z", null, null, null, null, null, null, null, null, null], "implicit_dep": ["__main__"]}

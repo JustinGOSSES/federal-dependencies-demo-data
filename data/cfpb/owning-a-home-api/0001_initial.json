@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "owning-a-home-api", "repo_link": "https://github.com/cfpb/owning-a-home-api", "filename": "0001_initial.py", "explicit_dep": ["south.utils", "south.db", "south.v2", "django.db", "datetime_utils", "db", "SchemaMigration", "models"], "implicit_dep": ["__main__"]}

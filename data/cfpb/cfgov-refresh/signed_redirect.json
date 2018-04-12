@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "signed_redirect.py", "explicit_dep": ["django", "django.template.defaultfilters", "django.utils.html", "core.utils", "template", "stringfilter", "urlize", "signed_redirect"], "implicit_dep": ["__main__"]}

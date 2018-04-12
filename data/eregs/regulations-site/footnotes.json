@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-site", "repo_link": "https://github.com/eregs/regulations-site", "filename": "footnotes.py", "explicit_dep": ["regulations.generator.layers.base", "regulations.generator.layers.utils", "ParagraphLayer", "is_contained_in"], "implicit_dep": ["__main__"]}

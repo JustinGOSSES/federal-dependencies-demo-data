@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "sheer", "repo_link": "https://github.com/cfpb/sheer", "filename": "setup.py", "explicit_dep": ["setuptools", "setup"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-refresh", "repo_link": "https://github.com/cfpb/cfgov-refresh", "filename": "hud_generate_html.py", "explicit_dep": ["django.core.management.base", "legacy.housing_counselor.generator", "BaseCommand", "generate_counselor_html"], "implicit_dep": ["__main__"]}

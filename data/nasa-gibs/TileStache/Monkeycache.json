@@ -1,0 +1,1 @@
+{"org": "nasa-gibs", "org_link": "https://github.com/nasa-gibs", "repo": "TileStache", "repo_link": "https://github.com/nasa-gibs/TileStache", "filename": "Monkeycache.py", "explicit_dep": ["TileStache.Config", "TileStache.Core", "buildConfiguration", "KnownUnknown"], "implicit_dep": ["__main__"]}

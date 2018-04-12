@@ -1,0 +1,1 @@
+{"org": "defense-cyber-crime-center", "org_link": "https://github.com/defense-cyber-crime-center", "repo": "dfvfs", "repo_link": "https://github.com/defense-cyber-crime-center/dfvfs", "filename": "check_dependencies.py", "explicit_dep": ["sys", "dfvfs.dependencies"], "implicit_dep": ["__main__"]}

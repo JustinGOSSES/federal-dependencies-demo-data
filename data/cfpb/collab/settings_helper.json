@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "collab", "repo_link": "https://github.com/cfpb/collab", "filename": "settings_helper.py", "explicit_dep": ["collab.settings", "django.utils.importlib", "INSTALLED_APPS", "import_module"], "implicit_dep": ["__main__"]}

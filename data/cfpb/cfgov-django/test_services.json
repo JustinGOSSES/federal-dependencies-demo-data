@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "cfgov-django", "repo_link": "https://github.com/cfpb/cfgov-django", "filename": "test_services.py", "explicit_dep": ["mock", "icalendar", "django.test", "core.services", "TestCase", "ICSView"], "implicit_dep": ["__main__"]}

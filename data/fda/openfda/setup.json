@@ -1,0 +1,1 @@
+{"org": "fda", "org_link": "https://github.com/fda", "repo": "openfda", "repo_link": "https://github.com/fda/openfda", "filename": "setup.py", "explicit_dep": ["setuptools"], "implicit_dep": ["__main__"]}

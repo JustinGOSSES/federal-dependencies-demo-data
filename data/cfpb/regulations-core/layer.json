@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-core", "repo_link": "https://github.com/cfpb/regulations-core", "filename": "layer.py", "explicit_dep": ["regcore", "regcore.responses", "db", "four_oh_four", "success"], "implicit_dep": ["__main__"]}

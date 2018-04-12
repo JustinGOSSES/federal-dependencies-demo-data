@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "regulations-core", "repo_link": "https://github.com/cfpb/regulations-core", "filename": "views_es_search_tests.py", "explicit_dep": ["django.test", "django.test.client", "mock", "regcore_read.views.es_search", "TestCase", "Client", "patch", null], "implicit_dep": ["__main__"]}

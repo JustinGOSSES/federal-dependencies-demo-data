@@ -1,0 +1,1 @@
+{"org": "eregs", "org_link": "https://github.com/eregs", "repo": "regulations-site", "repo_link": "https://github.com/eregs/regulations-site", "filename": "meta.py", "explicit_dep": ["regulations.generator.layers.base", "regulations.generator.layers.utils", "ParagraphLayer", "convert_to_python"], "implicit_dep": ["__main__"]}

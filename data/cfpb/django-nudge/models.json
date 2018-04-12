@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "django-nudge", "repo_link": "https://github.com/cfpb/django-nudge", "filename": "models.py", "explicit_dep": ["django.db", "models"], "implicit_dep": ["__main__"]}

@@ -1,0 +1,1 @@
+{"org": "cfpb", "org_link": "https://github.com/cfpb", "repo": "macropolo", "repo_link": "https://github.com/cfpb/macropolo", "filename": "__init__.py", "explicit_dep": ["jinja2_env", "sheer_env", "Jinja2Environment", "SheerEnvironment"], "implicit_dep": ["__main__"]}
